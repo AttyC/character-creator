@@ -33,4 +33,13 @@
 }
 
 .controlColumn {
+  position: relative;
+}
+
+.perspectiveBg{
+  height: 40%;
+  background: hsl(195deg, 20%, 86%);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
